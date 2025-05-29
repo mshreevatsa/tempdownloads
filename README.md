@@ -11,7 +11,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 - Create or upload files
 - Add files using the command line or push an existing Git repository with the following command
 
-```
+```js
 cd existing_repo
 git remote add origin https://abc.git
 git branch -M main
